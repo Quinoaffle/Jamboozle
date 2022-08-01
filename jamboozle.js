@@ -12,6 +12,6 @@ client.events = new Discord.Collection();
     require(`./${handler}.js`)(client, Discord);
 })
 
-client.login('ODg4Mjg1MjQ5MjMzMTEzMDk4.YUQeGg.u_tW_Au7UCj2i680HNJ3JQ1nGNk');
+client.login('Bot Key Goes Here');
 
 // node index.js
